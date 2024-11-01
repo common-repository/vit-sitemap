@@ -1,0 +1,9 @@
+#sitemap_col_2 {
+    display: flex;
+}
+#sitemap_col_2 .sitemap_col {
+    flex: 1 1 0px;
+}
+#sitemap_col_2 .sitemap_col .pages, #sitemap_col_2 .sitemap_col .posts, #sitemap_col_2 .sitemap_col .children{
+    padding: 0;
+}
